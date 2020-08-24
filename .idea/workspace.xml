@@ -11,26 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c81e4930-8b53-49d6-8d33-13d1f70a3e3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/03 -webpack-inicial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/tesla-logo-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/todo-list.class.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/todo.class.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/componentes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/componentes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +92,7 @@
       <workItem from="1598048484271" duration="2772000" />
       <workItem from="1598132901842" duration="211000" />
       <workItem from="1598133176761" duration="8000" />
-      <workItem from="1598133195488" duration="15146000" />
+      <workItem from="1598133195488" duration="15411000" />
     </task>
     <servers />
   </component>
